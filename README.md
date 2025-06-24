@@ -10,3 +10,7 @@ dit is een test
 
 ## Copyright
 voor de traing toegevoegd
+
+## Laatste aanpassingen om te testen
+
+jaja mooi man
