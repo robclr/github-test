@@ -1,2 +1,8 @@
-# github-test
-test voor cursus
+# Starter Web Project
+
+## Introduction
+
+## Purpose
+
+## How To Contribute
+
