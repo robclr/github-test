@@ -1,2 +1,7 @@
 test git demo
 aanpassingen na nieuwe branch
+<!--
+
+	Copyright training
+	
+	-->
