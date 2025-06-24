@@ -8,3 +8,5 @@ dit is een test
 
 ## How To Contribute
 
+## Copyright
+voor de traing toegevoegd
